@@ -1,0 +1,5 @@
+requests==2.22.0
+bokeh==1.2.0
+pandas==0.24.2
+geopandas==0.5.0
+pandas_bokeh==0.2
